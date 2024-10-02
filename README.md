@@ -6,7 +6,7 @@ Topics:
   - Input and output
   - Math library
   - Comparison operators
-  - Type conversion__
+  - Type conversion\
 Resources:
   - [Elements of Programming](https://introcs.cs.princeton.edu/java/11hello/)
   - [Built-in Types of Data](https://introcs.cs.princeton.edu/java/11hello/)
