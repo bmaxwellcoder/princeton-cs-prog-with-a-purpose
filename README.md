@@ -2,7 +2,7 @@
 ## Week 1: Basic Programming Concepts
 Topics: 
   - Built-in data types
-  - Basic defintions
+  - Basic definitions
   - Input and output
   - Math library
   - Comparison operators
