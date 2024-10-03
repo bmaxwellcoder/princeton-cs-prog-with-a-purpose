@@ -17,7 +17,9 @@
 ### Resources:
   - [Elements of Programming](https://introcs.cs.princeton.edu/java/11hello/)
   - [Built-in Types of Data](https://introcs.cs.princeton.edu/java/11hello/)
-  
+
+
+## Week 2: Conditionals and Loops
 
 ## General Course Resources:
 - [Princetion: Intro to CS](https://introcs.cs.princeton.edu/java/home/)
