@@ -10,7 +10,7 @@
 ## Assignment:
 - [Assignment Instructions](https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php)
 - <p>Problems Topics: <br/>
-      <p>(1) Strings and command-line arguments<br/>
+<p><space></space>1) Strings and command-line arguments<br/>
       <p>(2) Integers and booleans<br/>
       <p>(3) Floating points numbers and the Math Library<br/>
       <p>(4) Type Conversion<br/>
