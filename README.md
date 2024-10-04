@@ -20,6 +20,23 @@
 
 
 ## Week 2: Conditionals and Loops
+### Topics:
+  - if statement
+  - Loops:
+    - while
+    - for
+  - Nesting
+  - Debugging
+## Assignment:
+- [Assignment Instructions](https://coursera.cs.princeton.edu/introcs/assignments/loops/specification.php)
+- <p>Problem Topics</p>
+  1) Generalized harmonic numbers<br/>
+  2) Band Matrices<br/>
+  3) Random Walk<br/>
+  4) Random Walkers<br/>
+  ## Resources: 
+  - [Conditionals and Loops](https://introcs.cs.princeton.edu/java/13flow/)
+  
 
 ## General Course Resources:
 - [Princetion: Intro to CS](https://introcs.cs.princeton.edu/java/home/)
