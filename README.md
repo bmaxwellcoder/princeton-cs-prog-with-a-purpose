@@ -7,7 +7,7 @@
   - Math library
   - Comparison operators
   - Type conversion
-## Assignment:
+### Assignment:
 - [Assignment Instructions](https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php)
 - <p>Problems Topics: <br/>
     1) Strings and command-line arguments<br/>
@@ -27,7 +27,7 @@
     - for
   - Nesting
   - Debugging
-## Assignment:
+### Assignment:
 - [Assignment Instructions](https://coursera.cs.princeton.edu/introcs/assignments/loops/specification.php)
 - <p>Problem Topics</p>
   1) Generalized harmonic numbers<br/>
