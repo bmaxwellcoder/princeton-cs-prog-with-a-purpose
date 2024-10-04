@@ -29,7 +29,7 @@
   - Debugging
 ### Assignment:
 - [Assignment Instructions](https://coursera.cs.princeton.edu/introcs/assignments/loops/specification.php)
-- <p>Problem Topics
+- <p>Problem Topics<br/>
   1) Generalized harmonic numbers<br/>
   2) Band Matrices<br/>
   3) Random Walk<br/>
