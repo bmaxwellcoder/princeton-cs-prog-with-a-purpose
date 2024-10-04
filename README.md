@@ -34,7 +34,7 @@
   2) Band Matrices<br/>
   3) Random Walk<br/>
   4) Random Walkers<br/>
-  ## Resources: 
+### Resources: 
   - [Conditionals and Loops](https://introcs.cs.princeton.edu/java/13flow/)
   
 
