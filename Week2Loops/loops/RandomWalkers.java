@@ -22,10 +22,10 @@ public class RandomWalkers {
                 if (randomVal < 0.25) {
                     // Move left
                     x++;
-                } else if (randomVal >= 0.25 && randomVal < 0.5) {
+                } else if (randomVal < 0.5) {
                     // Move right
                     x--;
-                } else if (randomVal >= 0.5 && randomVal < 0.75) {
+                } else if (randomVal < 0.75) {
                     // Move up
                     y++;
                 } else {
