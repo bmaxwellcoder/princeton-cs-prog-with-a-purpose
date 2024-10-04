@@ -29,11 +29,11 @@
   - Debugging
 ### Assignment:
 - [Assignment Instructions](https://coursera.cs.princeton.edu/introcs/assignments/loops/specification.php)
-- <p>Problem Topics</p>
+- <p>Problem Topics
   1) Generalized harmonic numbers<br/>
   2) Band Matrices<br/>
   3) Random Walk<br/>
-  4) Random Walkers<br/>
+  4) Random Walkers<br/></p>
 ### Resources: 
   - [Conditionals and Loops](https://introcs.cs.princeton.edu/java/13flow/)
   
