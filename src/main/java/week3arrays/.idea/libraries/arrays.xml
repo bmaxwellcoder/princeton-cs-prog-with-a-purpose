@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="arrays">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/arrays.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,29 @@
+# Maven target directory
+/target/
+
+# IntelliJ IDEA project files
+/.idea/
+/*.iml
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# OS-specific files
+.DS_Store
+
+# Maven-specific files
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Other
+*.swp
+
+# Directories to ignore
+arraysOld
+helloOld
+loopsOld
+
