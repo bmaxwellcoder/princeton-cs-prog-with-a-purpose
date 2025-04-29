@@ -27,3 +27,5 @@ arraysOld
 helloOld
 loopsOld
 
+# Gitignore file
+.gitignore
