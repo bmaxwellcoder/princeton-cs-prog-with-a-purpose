@@ -1,4 +1,4 @@
-# Computer-Science-Programming-with-a-Purpose
+# Computer Science Programming with a Purpose
 ## Week 1: Basic Programming Concepts
 ### Topics: 
   - Built-in data types
